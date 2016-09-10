@@ -1,0 +1,8 @@
+installation
+https://github.com/Agilefant/agilefant/wiki/Agilefant-installation-guide#1-use-oracles-jdk-instead-of-openjdk
+
+dockerfile
+https://github.com/ovidiub13/agilefant-docker/blob/master/entrypoint.sh
+https://github.com/kcyeu/docker-agilefant/blob/master/assets/entrypoint.sh
+
+
